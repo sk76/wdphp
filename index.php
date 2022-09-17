@@ -1,3 +1,3 @@
 <?php
-	echo "Deploying First PHP Application Using CI/CD Pipeline.....";
+	echo "Second Version PHP Application Using CI/CD Pipeline.....";
 ?>
