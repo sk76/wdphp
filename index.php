@@ -1,3 +1,3 @@
 <?php
-	echo "Bug fixed ..... by developer2";
+	echo "New Code for OpenShift Test";
 ?>
