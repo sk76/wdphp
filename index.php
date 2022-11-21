@@ -1,3 +1,3 @@
 <?php
-	echo "New Code for OpenShift Test";
+	echo "Deploying PHP App on OpenShift Cluster!!!!!!!!";
 ?>
